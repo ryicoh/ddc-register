@@ -4,7 +4,8 @@ Register completion for [ddc.vim](https://github.com/Shougo/ddc.vim)
 
 # Demo
 
-https://user-images.githubusercontent.com/37844673/156731148-37242454-55d2-4423-8ec5-2a0f44c2e0e8.mov
+https://user-images.githubusercontent.com/37844673/156794565-de1bf6e3-df9b-4bda-b02a-bfe61726efab.mov
+
 
 ## Required
 
