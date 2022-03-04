@@ -82,10 +82,8 @@ export class Source extends BaseSource<Params> {
         continue;
       }
 
-      cs.push({
-        word: register.replace(/\n/g, "\\n"),
-	kind: name,
-      });
+      const word = register.replace(/\n/g, "")
+      cs.push({ word, kind: name });
     }
 
     return cs
