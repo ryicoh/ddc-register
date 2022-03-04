@@ -2,6 +2,13 @@
 
 Register completion for [ddc.vim](https://github.com/Shougo/ddc.vim)
 
+# Demo
+
+
+
+https://user-images.githubusercontent.com/37844673/156731148-37242454-55d2-4423-8ec5-2a0f44c2e0e8.mov
+
+
 
 ## Required
 
